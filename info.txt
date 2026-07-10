@@ -1,0 +1,13 @@
+Large code files
+ ↓
+Nomic embeddings (large chunks)
+ ↓
+Coarse retrieval
+
+Then:
+
+Small code chunks/functions using AST
+ ↓
+UnixCoder embeddings
+ ↓
+Fine semantic retrieval
